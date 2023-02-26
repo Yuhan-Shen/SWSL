@@ -1,0 +1,4 @@
+trainer:
+  root: /data/root
+dataset:
+  root: /data/datasets
